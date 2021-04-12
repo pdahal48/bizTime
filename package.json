@@ -1,0 +1,20 @@
+{
+  "name": "biztime",
+  "version": "1.0.0",
+  "description": "a exercise to build an invoice tracking app using backend api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdahal48/bizTime.git"
+  },
+  "author": "Prem Dahal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdahal48/bizTime/issues"
+  },
+  "homepage": "https://github.com/pdahal48/bizTime#readme"
+}
